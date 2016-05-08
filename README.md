@@ -12,7 +12,7 @@ Copy and paste in your JavaScript Console.
 ```
 
 # Attributions
-Martin Kleppe @aemkei </br>
+Martin Kleppe [@aemkei](https://github.com/aemkei) </br>
 Inspired from [katakana.js](https://github.com/aemkei/katakana.js)
 
 ##JavaScript Console
