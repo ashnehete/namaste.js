@@ -15,7 +15,7 @@ Copy and paste in your JavaScript Console.
 Martin Kleppe [@aemkei](https://github.com/aemkei) </br>
 Inspired from [katakana.js](https://github.com/aemkei/katakana.js)
 
-##JavaScript Console
+## JavaScript Console
 1. Press <kbd>F12</kbd> or <kbd>Ctrl+Shift+i</kbd>.
 2. Go to Console.
 3. Copy-Paste the above code and press <kbd>Enter</kbd>.
